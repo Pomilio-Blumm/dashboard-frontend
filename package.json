@@ -1,0 +1,10 @@
+{
+  "name": "dashboard-frontend",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "private": true,
+  "dependencies": {}
+}
